@@ -1,0 +1,1 @@
+# inspirative-mode
